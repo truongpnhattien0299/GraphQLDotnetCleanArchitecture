@@ -1,0 +1,14 @@
+DemoGraphQL/DemoGraphQL.Application/bin
+DemoGraphQL/DemoGraphQL.Application/obj
+DemoGraphQL/DemoGraphQL.Domain/bin
+DemoGraphQL/DemoGraphQL.Domain/obj
+DemoGraphQL/DemoGraphQL.Infrastructure.Identity/bin
+DemoGraphQL/DemoGraphQL.Infrastructure.Identity/obj
+DemoGraphQL/DemoGraphQL.Infrastructure.Persistence/bin
+DemoGraphQL/DemoGraphQL.Infrastructure.Persistence/obj
+DemoGraphQL/DemoGraphQL.Infrastructure.Shared/bin
+DemoGraphQL/DemoGraphQL.Infrastructure.Shared/obj
+DemoGraphQL/DemoGraphQL.WebApi/bin
+DemoGraphQL/DemoGraphQL.WebApi/obj
+.vs
+.vscode
