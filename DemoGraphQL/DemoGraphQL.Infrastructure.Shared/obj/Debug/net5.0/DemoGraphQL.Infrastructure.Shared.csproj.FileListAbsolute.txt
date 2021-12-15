@@ -1,0 +1,17 @@
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Infrastructure.Shared\bin\Debug\net5.0\DemoGraphQL.Infrastructure.Shared.deps.json
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Infrastructure.Shared\bin\Debug\net5.0\DemoGraphQL.Infrastructure.Shared.dll
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Infrastructure.Shared\bin\Debug\net5.0\ref\DemoGraphQL.Infrastructure.Shared.dll
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Infrastructure.Shared\bin\Debug\net5.0\DemoGraphQL.Infrastructure.Shared.pdb
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Infrastructure.Shared\bin\Debug\net5.0\DemoGraphQL.Application.dll
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Infrastructure.Shared\bin\Debug\net5.0\DemoGraphQL.Domain.dll
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Infrastructure.Shared\bin\Debug\net5.0\DemoGraphQL.Application.pdb
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Infrastructure.Shared\bin\Debug\net5.0\DemoGraphQL.Domain.pdb
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Infrastructure.Shared\obj\Debug\net5.0\DemoGraphQL.Infrastructure.Shared.csproj.AssemblyReference.cache
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Infrastructure.Shared\obj\Debug\net5.0\DemoGraphQL.Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Infrastructure.Shared\obj\Debug\net5.0\DemoGraphQL.Infrastructure.Shared.AssemblyInfoInputs.cache
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Infrastructure.Shared\obj\Debug\net5.0\DemoGraphQL.Infrastructure.Shared.AssemblyInfo.cs
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Infrastructure.Shared\obj\Debug\net5.0\DemoGraphQL.Infrastructure.Shared.csproj.CoreCompileInputs.cache
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Infrastructure.Shared\obj\Debug\net5.0\DemoGraphQL.Infrastructure.Shared.csproj.CopyComplete
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Infrastructure.Shared\obj\Debug\net5.0\DemoGraphQL.Infrastructure.Shared.dll
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Infrastructure.Shared\obj\Debug\net5.0\ref\DemoGraphQL.Infrastructure.Shared.dll
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Infrastructure.Shared\obj\Debug\net5.0\DemoGraphQL.Infrastructure.Shared.pdb

@@ -1,0 +1,12 @@
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Domain\bin\Debug\net5.0\DemoGraphQL.Domain.deps.json
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Domain\bin\Debug\net5.0\DemoGraphQL.Domain.dll
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Domain\bin\Debug\net5.0\ref\DemoGraphQL.Domain.dll
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Domain\bin\Debug\net5.0\DemoGraphQL.Domain.pdb
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Domain\obj\Debug\net5.0\DemoGraphQL.Domain.csproj.AssemblyReference.cache
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Domain\obj\Debug\net5.0\DemoGraphQL.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Domain\obj\Debug\net5.0\DemoGraphQL.Domain.AssemblyInfoInputs.cache
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Domain\obj\Debug\net5.0\DemoGraphQL.Domain.AssemblyInfo.cs
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Domain\obj\Debug\net5.0\DemoGraphQL.Domain.csproj.CoreCompileInputs.cache
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Domain\obj\Debug\net5.0\DemoGraphQL.Domain.dll
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Domain\obj\Debug\net5.0\ref\DemoGraphQL.Domain.dll
+D:\dichvunoibo\CleanArchitecture\GraphQL\DemoGraphQL\DemoGraphQL\DemoGraphQL.Domain\obj\Debug\net5.0\DemoGraphQL.Domain.pdb

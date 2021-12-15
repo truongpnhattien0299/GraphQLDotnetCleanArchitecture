@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DemoGraphQL.Domain/1.1.0": {
+        "runtime": {
+          "DemoGraphQL.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoGraphQL.Domain/1.1.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

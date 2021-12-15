@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\dichvunoibo\\CleanArchitecture\\GraphQL\\DemoGraphQL\\DemoGraphQL\\DemoGraphQL.Application\\DemoGraphQL.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\dichvunoibo\\CleanArchitecture\\GraphQL\\DemoGraphQL\\DemoGraphQL\\DemoGraphQL.Application\\DemoGraphQL.Application.csproj": {
+      "version": "1.1.0",
+      "restore": {
+        "projectUniqueName": "D:\\dichvunoibo\\CleanArchitecture\\GraphQL\\DemoGraphQL\\DemoGraphQL\\DemoGraphQL.Application\\DemoGraphQL.Application.csproj",
+        "projectName": "DemoGraphQL.Application",
+        "projectPath": "D:\\dichvunoibo\\CleanArchitecture\\GraphQL\\DemoGraphQL\\DemoGraphQL\\DemoGraphQL.Application\\DemoGraphQL.Application.csproj",
+        "packagesPath": "C:\\Users\\tientpn\\.nuget\\packages\\",
+        "outputPath": "D:\\dichvunoibo\\CleanArchitecture\\GraphQL\\DemoGraphQL\\DemoGraphQL\\DemoGraphQL.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tientpn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\dichvunoibo\\CleanArchitecture\\GraphQL\\DemoGraphQL\\DemoGraphQL\\DemoGraphQL.Domain\\DemoGraphQL.Domain.csproj": {
+                "projectPath": "D:\\dichvunoibo\\CleanArchitecture\\GraphQL\\DemoGraphQL\\DemoGraphQL\\DemoGraphQL.Domain\\DemoGraphQL.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.1.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[9.1.2, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[4.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\dichvunoibo\\CleanArchitecture\\GraphQL\\DemoGraphQL\\DemoGraphQL\\DemoGraphQL.Domain\\DemoGraphQL.Domain.csproj": {
+      "version": "1.1.0",
+      "restore": {
+        "projectUniqueName": "D:\\dichvunoibo\\CleanArchitecture\\GraphQL\\DemoGraphQL\\DemoGraphQL\\DemoGraphQL.Domain\\DemoGraphQL.Domain.csproj",
+        "projectName": "DemoGraphQL.Domain",
+        "projectPath": "D:\\dichvunoibo\\CleanArchitecture\\GraphQL\\DemoGraphQL\\DemoGraphQL\\DemoGraphQL.Domain\\DemoGraphQL.Domain.csproj",
+        "packagesPath": "C:\\Users\\tientpn\\.nuget\\packages\\",
+        "outputPath": "D:\\dichvunoibo\\CleanArchitecture\\GraphQL\\DemoGraphQL\\DemoGraphQL\\DemoGraphQL.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tientpn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
